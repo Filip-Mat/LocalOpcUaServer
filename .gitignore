@@ -1,0 +1,15 @@
+# Pythonmiljö
+.venv/
+
+# Python-cache
+__pycache__/
+*.py[cod]
+
+# Hemliga miljöfiler
+.env
+.env.*
+secrets.json
+
+# Editorinställningar
+.vscode/
+.idea/
