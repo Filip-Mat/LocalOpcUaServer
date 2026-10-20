@@ -35,7 +35,7 @@ OPC_ENDPOINT = os.getenv(
 
 NAMESPACE_URI = "urn:nackademin:telemetry"
 
-TELEMETRY_TIMEOUT_SECONDS = 20
+TELEMETRY_TIMEOUT_SECONDS = 180
 
 
 # Azure-tråden lägger meddelanden i denna kö.
